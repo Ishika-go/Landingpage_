@@ -1,0 +1,17 @@
+.logo{
+    height: 50px;
+    width:50px;
+    border-radius: 50%;
+    background-color: #fafafc;
+}
+.Navbar-container{
+    padding: 0px !important;
+    margin: 0px !important;
+  
+}
+.customButton{
+    color:black;
+}
+.contactButton{
+    background-color: black;
+}

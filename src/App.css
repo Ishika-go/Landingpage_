@@ -1,12 +1,28 @@
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
-  background-color: #f0f2f5;
+  margin:0px !important;
+  padding: 0px !important;
+  /* background: radial-gradient(circle, #e8eaec, #c5bbbb) !important; */
+
 }
 
+
 .App {
-  display: flex;
+  /* display: flex;
   justify-content: center;
-  align-items: center;
-  height: 100vh;
+  align-items: center; */
+  
+  display: flex;
+  
+  background: radial-gradient(circle, #ffffff, #eae5e5) !important;
+
+  /* background-image: url(https://uploads-ssl.webflow.com/6151b62…/616fff4…_Header_4.png); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+ 
+  
+
+ 
 }
